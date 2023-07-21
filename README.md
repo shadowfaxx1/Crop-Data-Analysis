@@ -55,7 +55,7 @@ To run this project locally, you will need to install the required libraries. Yo
 
 To use the project, follow these steps:
 
-1. Navigate to the `notebooks/` directory and run the Jupyter notebooks in the specified order.
+1. Navigate to the main execuetable file and run the Jupyter notebooks in the specified order and > change the path of the datasets .
 2. The notebooks cover data preprocessing, exploratory data analysis, and model training.
 3. Evaluate the performance of different machine learning algorithms for crop yield prediction.
 
